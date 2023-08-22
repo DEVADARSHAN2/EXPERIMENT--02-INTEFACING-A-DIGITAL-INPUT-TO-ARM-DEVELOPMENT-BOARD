@@ -96,11 +96,12 @@ void pushbutton()
 
 ## Output  :
  ## LED ON CONDITION
+![Uploading Screenshot 2023-08-22 161112.png…]()
 
-![On](https://user-images.githubusercontent.com/94226297/227711558-71500e35-6350-40eb-a007-acba4a2ff10c.png)
+
 
  ## LED OFF CONDITION
- ![Off](https://user-images.githubusercontent.com/94226297/227711024-ff360782-c235-4c59-9903-ce57d3b8e463.png)
+![Screenshot 2023-08-22 160529](https://github.com/DEVADARSHAN2/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119432150/d2123d77-9971-4dc0-89bc-af9a94d2c3c1)
 
 
  
