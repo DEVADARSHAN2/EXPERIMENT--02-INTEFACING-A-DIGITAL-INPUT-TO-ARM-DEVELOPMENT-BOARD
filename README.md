@@ -1,6 +1,8 @@
 # EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD
-## Aim: To Interface a Digital Input  (userpush button  ) to ARM   development board and write a  program to obtain  the data and flash the led  
-## Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool.
+## Aim: 
+To Interface a Digital Input  (userpush button  ) to ARM   development board and write a  program to obtain  the data and flash the led  
+## Components required:
+STM32 CUBE IDE, ARM IOT development board,  STM programmer tool.
 ## Theory 
 The full form of an ARM is an advanced reduced instruction set computer (RISC) machine, and it is a 32-bit processor architecture expanded by ARM holdings. The applications of an ARM processor include several microcontrollers as well as processors. The architecture of an ARM processor was licensed by many corporations for designing ARM processor-based SoC products and CPUs. This allows the corporations to manufacture their products using ARM architecture. Likewise, all main semiconductor companies will make ARM-based SOCs such as Samsung, Atmel, TI etc.
 
@@ -55,7 +57,7 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 ~~~
 NAME: DEVADARSHAN A S
 REG.NO:21222110007
-DEPT:CSE(IOT)
+
 ~~~
 ~~~
 #include "main.h"
@@ -101,8 +103,5 @@ void pushbutton()
  ## LED OFF CONDITION
 ![Screenshot 2023-08-26 082654](https://github.com/DEVADARSHAN2/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119432150/20dc4671-5910-4a33-8d3b-f2aa2f68f4cf)
 
-
- 
- 
 ## Result :
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
